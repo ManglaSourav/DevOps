@@ -1,31 +1,7 @@
 
 
 # Introduction - Day 1
-
-Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! Today, we begin our journey into the world of DevOps. Here’s what you need to do:
-
-1. **Fork this Repository:**
-   - Go to the repository on GitHub and fork it to your own account. This will allow you to track your progress and contribute.
-
-2. **Start with a DevOps Roadmap:**
-   - Watch the introductory video on DevOps: [DevOps Roadmap](https://youtu.be/g_QHuGq3E2Y?si=fR9K56-JevZTfrBK)
-
-3. **Write a LinkedIn Post or a Small Article:**
-   - Share your understanding of DevOps based on the video and your research. Cover the following points:
-
-     - **What is DevOps:**
-       
-       
-     - **What is Automation, Scaling, and Infrastructure:**
-       
-       
-     - **Why DevOps is Important:**
-       
-       
-
-4. **Engage with the Community:**
-   - Share your LinkedIn post or article link in the community forum or on social media using the hashtags #90DaysOfDevOps and #TrainWithShubham.
-   - Read and comment on posts from other participants to foster a collaborative learning environment.
+## Linux, shell scripting, file permissions, access control lists, Package Manager and Systemctl, docker, jenkins, git, kubernetes, cloud(aws), terraform, ansible and Grafana
 
 
 # Day 2 Basic Linux 
@@ -72,8 +48,6 @@ mkdir /home/user/Mydirectory   # make a new folder in a specific location
 mkdir -p  A/B/C/D              # make a nested directory
 ```
 
-
-
 # Day 3 Task: Basic Linux Commands with a Twist
 
 Task: What are the Linux commands to
@@ -93,7 +67,7 @@ Task: What are the Linux commands to
 
 Reference: [Linux Commands for DevOps Used Day-to-Day](https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/)
 
-[← Previous Day](../day02/README.md) | [Next Day →](../day04/README.md)
+
 
 
 
@@ -175,13 +149,11 @@ Linux shell scripting involves writing programs (scripts) that can be run by a L
 
 **Were the tasks challenging?**
 
-These tasks are designed to introduce you to basic concepts of Linux shell scripting for DevOps. Share your experience and solutions on LinkedIn and let me know how it went! :)
+These tasks are designed to introduce you to basic concepts of Linux shell scripting for DevOps.
 
 **Article Reference:** [Click here to read basic Linux Shell Scripting](https://devopscube.com/linux-shell-scripting-for-devops/)
 
 **YouTube Video:** [EASIEST Shell Scripting Tutorial for DevOps Engineers](https://www.youtube.com/watch?v=_-D6gkRj7xc&list=PLlfy9GnSVerQr-Se9JRE_tZJk3OUoHCkh&index=3)
-
-[← Previous Day](../day03/README.md) | [Next Day →](../day05/README.md)
 
 
 
@@ -248,14 +220,6 @@ All 90 directories were created within seconds using a simple command:
    - Create 2 users and display their usernames.
    - [Check out this reference: User Management in Linux](https://www.geeksforgeeks.org/user-management-in-linux/).
 
-5. **Post Your Progress:**
-   - Post your daily work on LinkedIn and let me know how it went! Writing an article about your experience is highly encouraged.
-
-**Were the tasks challenging?**
-
-These tasks are designed to push your skills and introduce you to advanced concepts in Linux shell scripting and user management. Share your experience and solutions on LinkedIn and let me know how it went!
-
-[← Previous Day](../day04/README.md) | [Next Day →](../day06/README.md)
 
 
 
@@ -299,7 +263,6 @@ These tasks are designed to push your skills and introduce you to advanced conce
    
    ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day05/image/task%204.png)
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/).
 
 
 
@@ -343,9 +306,6 @@ The concept of Linux file permission and ownership is important in Linux. Today,
 
 In case of any doubts, post them on the [Discord Community](https://discord.gg/hs3Pmc5F).
 
-**Happy Learning!**
-
-[← Previous Day](../day05/README.md) | [Next Day →](../day07/README.md)
 
 
 
@@ -500,10 +460,6 @@ Systemctl is used to examine and control the state of the “systemd” system a
 
 6. **Analyze Logs:**
    - Use journalctl to analyze the logs of the Docker and Jenkins services. Post your findings.
-
-#### Post about your progress and invite your friends to join the #90DaysOfDevOps challenge.
-
-[← Previous Day](../day06/README.md) | [Next Day →](../day08/README.md)
 
 
 
@@ -702,10 +658,6 @@ Wildcards are special characters used to perform pattern matching when working w
 - Ensure that your script is well-documented and easy to understand.
 - To submit your entry, create a GitHub repository and commit your script to it.
 
-**Good luck with Day 8 of the Bash Scripting Challenge! Tomorrow, the difficulty will increase as we move on to more advanced concepts. Happy scripting!**
-
-[← Previous Day](../day07/README.md) | [Next Day →](../day09/README.md)
-
 
 
 # Day 8 Answers: Shell Scripting Challenge
@@ -754,7 +706,6 @@ Wildcards are special characters used to perform pattern matching when working w
 
    ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day08/image/task6.png)     
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)   
 
 
 
@@ -828,9 +779,6 @@ In this example, the script creates backup folders with timestamped names and re
 
 Create a bash script named backup_with_rotation.sh that implements the Directory Backup with Rotation as described in the challenge.
 
-Happy Learning
-
-[← Previous Day](../day08/README.md) | [Next Day →](../day10/README.md)
 
 
 Add comments in the script to explain the purpose and logic of each part.
@@ -885,7 +833,6 @@ Congratulations on completing Day 2 of the Bash Scripting Challenge! The challen
    **Reference**  
    [TrainWithShubham - Production Backup Rotation | Shell Scripting For DevOps Engineer](https://youtu.be/PZYJ33bMXAw?si=Zb50P67x_F32ikeO)   
 
-   [LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
 
 
 
@@ -941,10 +888,6 @@ A sample log file named `sample_log.log` has been provided in the same directory
 
 Submit your completed script by [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) or sending the script file to the challenge organizer.
 
-Good luck and happy scripting!
-
-[← Previous Day](../day09/README.md) | [Next Day →](../day11/README.md)
-
 
 
 # Day 10 Answers: Log Analyzer and Report Generator
@@ -999,7 +942,6 @@ Write a Bash script that automates the process of analyzing log files and genera
 
 A sample log file named `sample_log.log` has been provided in the same directory as this challenge file. You can use this file to test your script or use [this](https://github.com/logpai/loghub/blob/master/Zookeeper/Zookeeper_2k.log)
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
 
 
 
@@ -1069,8 +1011,6 @@ if [ $? -ne 0 ]; then
   echo "Error: Directory /tmp/mydir could not be created. Check if you have the necessary permissions."
 fi
 ```
-
-[← Previous Day](../day10/README.md) | [Next Day →](../day12/README.md)
 
 
 
@@ -1165,7 +1105,7 @@ if [ $? -ne 0 ]; then
 fi
 ```
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
+
 
 
 
@@ -1193,8 +1133,6 @@ fi
 Reference: [YouTube Video](https://youtu.be/AT1uxOLsCdk)
 
 Note: These steps assume that you have already installed Git on your computer and have created a GitHub account. If you need help with these prerequisites, you can refer to the [guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-
-[← Previous Day](../day11/README.md) | [Next Day →](../day13/README.md)
 
 
 
@@ -1290,8 +1228,6 @@ Note: These steps assume that you have already installed Git on your computer an
 
 ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day12/image/gitui2.png)
 
-
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
 
 
 
@@ -1391,9 +1327,6 @@ Simple Reference on branching: [video](https://youtu.be/NzjK9beT_CY)
 
 Advanced Reference on branching: [video](https://youtu.be/7xhkEQS3dXw)
 
-Share your learnings from this task on LinkedIn using #90DaysOfDevOps Challenge. Happy Learning!
-
-[← Previous Day](../day12/README.md) | [Next Day →](../day14/README.md)
 
 
 
@@ -1536,7 +1469,6 @@ This command reverts the last two commits, effectively removing the "gadbad code
 
    - During a rebase, Git re-applies commits from the current branch (in this case, dev) onto the target branch (master). This results in a linear commit history.
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
 
 
 
@@ -1564,14 +1496,6 @@ Show us your knowledge mixed with your creativity 😎.
 ### Reference
 
 For your reference, check out this [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf). However, ensure that your cheat sheet is unique.
-
-### Share Your Work
-
-Post your cheat sheet on LinkedIn and spread the knowledge. 😃
-
-**Happy Learning! :)**
-
-[← Previous Day](../day13/README.md) | [Next Day →](../day15/README.md)
 
 
 
@@ -1655,7 +1579,6 @@ Show us your knowledge mixed with your creativity 😎.
 
 For your reference, check out this [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf). However, ensure that your cheat sheet is unique.
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
 
 
 # Day 15 Task: Basics of Python for DevOps Engineers
@@ -1685,12 +1608,6 @@ You can install Python on your system, whether it is Windows, macOS, Ubuntu, Cen
 2. Read about different data types in Python.
 
 You can get the complete playlist [here](https://www.youtube.com/watch?v=abPgj_3hzVY&list=PLlfy9GnSVerS_L5z0COaF7rsbgWmJXTOM) 🙌
-
-Don't forget to share your journey over LinkedIn. Let the community know that you have started another chapter of your journey.
-
-**Happy Learning, Ruko Mat Phod do! 😃**
-
-[← Previous Day](../day14/README.md) | [Next Day →](../day16/README.md)
 
 
 
@@ -1776,9 +1693,7 @@ Python is an open-source, general-purpose, high-level, and object-oriented progr
 
 You can get the complete playlist [here](https://www.youtube.com/watch?v=abPgj_3hzVY&list=PLlfy9GnSVerS_L5z0COaF7rsbgWmJXTOM) 🙌
 
-**Happy Learning, Ruko Mat Phod do! 😃**
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
 
 
 
@@ -1808,12 +1723,8 @@ As you have already installed Docker in previous tasks, now is the time to run D
 
 These tasks involve simple operations that can be used to manage images and containers.
 
-For reference, you can watch this video:
-https://youtu.be/Tevxhn6Odc8
 
-You can post on LinkedIn and let us know what you have learned from this task by #90DaysOfDevOps Challenge. Happy Learning :)
 
-[← Previous Day](../day15/README.md) | [Next Day →](../day17/README.md)
 
 
 
@@ -1879,7 +1790,6 @@ These tasks involve simple operations that can be used to manage images and cont
 
 For reference, you can watch this video: [Docker Tutorial on AWS EC2 as DevOps Engineer // DevOps Project Bootcamp Day 2](https://youtu.be/Tevxhn6Odc8).
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
 
 
 
@@ -1906,11 +1816,8 @@ For a reference project, visit [here](https://youtu.be/Tevxhn6Odc8).
 
 If you want to dive further, watch this [bootcamp](https://youtube.com/playlist?list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u).
 
-You can share your learning with everyone over LinkedIn and tag us along. 😃
 
-Happy Learning :)
 
-[← Previous Day](../day16/README.md) | [Next Day →](../day18/README.md)
 
 
 
@@ -1990,17 +1897,13 @@ For more about Dockerfile, visit [here](https://rushikesh-mashidkar.hashnode.dev
 
       ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day17/image/9_Push_the_Image.png)
 
-For a reference project, visit [here](https://youtu.be/Tevxhn6Odc8).
 
-If you want to dive further, watch this [bootcamp](https://youtube.com/playlist?list=PLlfy9GnSVerRqYJgVYO0UiExj5byjrW8u).
 
-You can share your learning with everyone over LinkedIn and tag us along. 😃
 
-Happy Learning :)
 
 [Code for Reference](https://raw.githubusercontent.com/Bhavin213/90DaysOfDevOps/master/2024/day17/code.txt)
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
+
 
 
 
@@ -2043,9 +1946,6 @@ Learn how to use the docker-compose.yml file to set up the environment, configur
 
 For reference, you can watch this [video](https://youtu.be/Tevxhn6Odc8).
 
-You can post on LinkedIn and let us know what you have learned from this task by using #90DaysOfDevOps Challenge. Happy Learning! :)
-
-[← Previous Day](../day17/README.md) | [Next Day →](../day19/README.md)
 
 
 
@@ -2156,8 +2056,6 @@ Learn how to use the docker-compose.yml file to set up the environment, configur
 
 For reference, you can watch this [video](https://youtu.be/Tevxhn6Odc8).
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
-
 
 
 # Day 19 Task: Docker for DevOps Engineers
@@ -2192,11 +2090,6 @@ Create a multi-container docker-compose file that will bring up and bring down c
 
 ## Project Opportunity
 
-You can use this task as a project to add to your resume.
-
-You can post on LinkedIn and let us know what you have learned from this task by using #90DaysOfDevOps Challenge. Happy Learning! 🙂
-
-[← Previous Day](../day18/README.md) | [Next Day →](../day20/README.md)
 
 
 
@@ -2211,12 +2104,6 @@ Now it's time to take your Docker skills to the next level by creating a compreh
 So, put your knowledge and creativity to the test and create a cheat-sheet that truly stands out! 🚀
 
 For reference, I have added a [cheatsheet](https://cdn.hashnode.com/res/hashnode/image/upload/v1670863735841/r6xdXpsap.png?auto=compress,format&format=webp). Make sure your cheat-sheet is UNIQUE.
-
-Post it on LinkedIn and share your knowledge with the community. 😃
-
-**Happy Learning :)**
-
-[← Previous Day](../day19/README.md) | [Next Day →](../day21/README.md)
 
 
 
@@ -2259,12 +2146,6 @@ Docker is a crucial topic for DevOps Engineer interviews, especially for fresher
 - What is Docker overlay networking?
 - How do you handle environment variables in Docker?
 
-These questions will help you in your next DevOps interview. Write a blog and share it on LinkedIn to showcase your knowledge.
-
-**Happy Learning :)**
-
-[← Previous Day](../day20/README.md) | [Next Day →](../day22/README.md)
-
 
 
 # Day-22 : Getting Started with Jenkins 😃
@@ -2300,11 +2181,7 @@ Create a freestyle pipeline in Jenkins that:
 - Clones a GitHub repository and lists its contents
 - Configure the pipeline to run periodically (e.g., every hour).
 
-### Share Your Progress
 
-Don't forget to post your progress on LinkedIn to share your learning journey with others. Happy learning and good luck with your DevOps challenge!
-
-[← Previous Day](../day21/README.md) | [Next Day →](../day23/README.md)
 
 
 
@@ -2342,13 +2219,6 @@ A freestyle project in Jenkins is a type of project that allows you to build, te
 
 For reference on Jenkins Freestyle Projects, visit [here](https://youtu.be/wwNWgG5htxs).
 
-You can post on LinkedIn and let us know what you have learned from this task as part of the #90DaysOfDevOps Challenge.
-
-**Happy Learning :)**
-
-[← Previous Day](../day22/README.md) | [Next Day →](../day24/README.md)
-
-
 
 # Day 24 Task: Complete Jenkins CI/CD Project
 
@@ -2373,12 +2243,6 @@ Let's create a comprehensive CI/CD pipeline for your Node.js application! 😍
 3. Run the project and celebrate your accomplishment! 🎉
 
 For a detailed walkthrough and hands-on experience with the project, visit [this video](https://youtu.be/nplH3BzKHPk).
-
-You can post on LinkedIn and share your experiences and learnings from this task using the #90DaysOfDevOps Challenge.
-
-**Happy Learning :)**
-
-[← Previous Day](../day23/README.md) | [Next Day →](../day25/README.md)
 
 
 
@@ -2407,12 +2271,6 @@ You've been making amazing progress, so let's take a moment to catch up and refi
 - Having small, achievable goals and strategies for reaching them is essential. Don't forget to reward yourself for your efforts!
 
 For a detailed walkthrough and project guidance, visit [this video](https://youtu.be/nplH3BzKHPk).
-
-You can post on LinkedIn and let us know what you have learned from this task using the #90DaysOfDevOps Challenge.
-
-**Happy Learning :)**
-
-[← Previous Day](../day24/README.md) | [Next Day →](../day26/README.md)
 
 
 
@@ -2470,11 +2328,7 @@ pipeline {
 - Complete the example using the Declarative pipeline
 - In case of any issues feel free to post on any Groups, [Discord](https://discord.gg/Q6ntmMtH) or [Telegram](https://t.me/trainwithshubham)
 
-You can post your progress on LinkedIn and let us know what you have learned from this task by #90DaysOfDevOps Challenge.
 
-Happy Learning:)
-
-[← Previous Day](../day25/README.md) | [Next Day →](../day27/README.md)
 
 
 
@@ -2514,13 +2368,6 @@ stages {
 - Complete your previous projects using this Declarative pipeline approach
 
 - In case of any issues feel free to post on any Groups, [Discord](https://discord.gg/Q6ntmMtH) or [Telegram](https://t.me/trainwithshubham)
-
-Are you enjoying the #90DaysOfDevOps Challenge?
-Let me know how are feeling after 4 weeks of DevOps Learnings,
-
-Happy Learning:)
-
-[← Previous Day](../day26/README.md) | [Next Day →](../day28/README.md)
 
 
 
@@ -2566,16 +2413,6 @@ To set up an agent, you'll need a fresh Ubuntu 22.04 Linux installation. Ensure 
 2. **Labeling:**
    - Assign labels to the agent and configure your master server to trigger builds on the appropriate agent based on these labels.
 
-3. **Support:**
-   - If you encounter any issues, feel free to seek help on [Discord](https://discord.gg/Q6ntmMtH) or [Telegram](https://t.me/trainwithshubham).
-
-## Reflection
-
-Are you enjoying the #90DaysOfDevOps Challenge? Share your thoughts and experiences after four weeks of learning DevOps.
-
-**Happy Learning! :)**
-
-[← Previous Day](../day27/README.md) | [Next Day →](../day29/README.md)
 
 
 
@@ -2617,11 +2454,7 @@ Here are some Jenkins-specific questions related to Docker and other DevOps conc
 8. **In a scenario where you have multiple teams working on different projects, how would you structure Jenkins jobs and pipelines to ensure efficient resource utilization and manage permissions?**
 9. **Your Jenkins agents are running in a cloud environment, and you notice that build times fluctuate due to varying resource availability. How would you optimize the performance and cost of these agents?**
 
-These questions will help you prepare for your next DevOps interview. Consider writing a blog and sharing your experiences and knowledge on LinkedIn.
 
-**Happy Learning! :)**
-
-[← Previous Day](../day28/README.md) | [Next Day →](../day30/README.md)
 
 
 
@@ -2650,10 +2483,6 @@ Originally developed at Google and released as open-source in 2014. Kubernetes b
 6. Explain the role of the API server.
 
 Kubernetes architecture is important, so make sure you spend a day understanding it. [This video](https://youtu.be/FqfoDUhzyDo) will surely help you.
-
-_Happy Learning :)_
-
-[← Previous Day](../day29/README.md) | [Next Day →](../day31/README.md)
 
 
 
@@ -2719,10 +2548,6 @@ We are suggesting you make an nginx pod, but you can always show your creativity
 
 **Having an issue? Don't worry, adding a sample yaml file for pod creation, you can always refer that.**
 
-_Happy Learning :)_
-
-[← Previous Day](../day30/README.md) | [Next Day →](../day32/README.md)
-
 
 
 ## Day 32 Task: Launching your Kubernetes Cluster with Deployment
@@ -2748,10 +2573,6 @@ You describe a desired state in a Deployment, and the Deployment Controller chan
 Let's make your resume shine with one more project ;)
 
 **Having an issue? Don't worry, adding a sample deployment file , you can always refer that or wathch [this video](https://youtu.be/ONrbWFJXLLk)**
-
-Happy Learning :)
-
-[← Previous Day](../day31/README.md) | [Next Day →](../day33/README.md)
 
 
 
@@ -2784,11 +2605,6 @@ In Kubernetes, Namespaces are used to create isolated environments for resources
 
 Need help with Namespaces? Check out this [video](https://youtu.be/K3jNo4z5Jx8) for assistance.
 
-Keep growing your Kubernetes knowledge💥🙌
-
-Happy Learning! :)
-
-[← Previous Day](../day32/README.md) | [Next Day →](../day34/README.md)
 
 
 
@@ -2824,10 +2640,6 @@ In Kubernetes, Services are objects that provide stable network identities to Po
 Struggling with Services? Take a look at this video for a step-by-step [guide](https://youtu.be/OJths_RojFA).
 
 Need help with Services in Kubernetes? Check out the Kubernetes [documentation](https://kubernetes.io/docs/concepts/services-networking/service/) for assistance.
-
-Happy Learning :)
-
-[← Previous Day](../day33/README.md) | [Next Day →](../day35/README.md)
 
 
 
@@ -2865,9 +2677,7 @@ In Kubernetes, ConfigMaps and Secrets are used to store configuration data and s
 
 Need help with ConfigMaps and Secrets? Check out this [video](https://youtu.be/FAnQTgr04mU) for assistance.
 
-Keep learning and expanding your knowledge of Kubernetes💥🙌
 
-[← Previous Day](../day34/README.md) | [Next Day →](../day36/README.md)
 
 
 
@@ -2919,10 +2729,6 @@ Need help with Persistent Volumes? Check out this [video](https://youtu.be/U0_N3
 
 Keep up the excellent work🙌💥
 
-Happy Learning :)
-
-[← Previous Day](../day35/README.md) | [Next Day →](../day37/README.md)
-
 
 
 ## Day 37 Task: Kubernetes Important interview Questions.
@@ -2961,13 +2767,8 @@ Happy Learning :)
 
 16.Difference between create and apply in kubernetes?
 
-## These questions will help you in your next DevOps Interview.
 
-_Write a Blog and share it on LinkedIn._
 
-**_Happy Learning :)_**
-
-[← Previous Day](../day36/README.md) | [Next Day →](../day38/README.md)
 
 
 
@@ -2997,10 +2798,6 @@ Create an IAM user with username of your own wish and grant EC2 Access. Launch y
 ### Task2:
 
 In this task you need to prepare a devops team of avengers. Create 3 IAM users of avengers and assign them in devops groups with IAM policy.
-
-Post your progress on Linkedin. Till then Happy Learning :)
-
-[← Previous Day](../day37/README.md) | [Next Day →](../day39/README.md)
 
 
 
@@ -3041,10 +2838,6 @@ Get to know IAM more deeply🏊[Click Here!!](https://www.youtube.com/watch?v=OR
 
 - Read more on IAM Roles and explain the IAM Users, Groups and Roles in your own terms.
 - Create three Roles named: DevOps-User, Test-User and Admin.
-
-Post your progress on Linkedin. Till then Happy Learning :)
-
-[← Previous Day](../day38/README.md) | [Next Day →](../day40/README.md)
 
 
 
@@ -3092,11 +2885,7 @@ An Amazon Machine Image (AMI) is an image that AWS supports and keeps up to date
 
 Check [this](https://docs.aws.amazon.com/autoscaling/ec2/userguide/create-launch-template.html#create-launch-template-for-auto-scaling) out
 
-Post your progress on Linkedin.
 
-Happy Learning :)
-
-[← Previous Day](../day39/README.md) | [Next Day →](../day41/README.md)
 
 
 
@@ -3148,11 +2937,6 @@ Read more from [here](https://docs.aws.amazon.com/elasticloadbalancing/latest/us
 
 Need help with task? Check out this [Blog for assistance](https://rushikesh-mashidkar.hashnode.dev/create-an-application-load-balancer-elastic-load-balancing-using-aws-ec2-instance).
 
-Don't forget to share your progress on LinkedIn and have a great day🙌💥
-
-Happy Learning! 😃
-
-[← Previous Day](../day40/README.md) | [Next Day →](../day42/README.md)
 
 
 
@@ -3181,9 +2965,6 @@ The AWS CLI v2 offers several new features including improved installers, new co
 
 Let me know if you have any issues while doing the task.
 
-Happy Learning :)
-
-[← Previous Day](../day41/README.md) | [Next Day →](../day43/README.md)
 
 
 
@@ -3215,10 +2996,6 @@ Read more about S3 using aws-cli [here](https://docs.aws.amazon.com/cli/latest/r
 Added Some Useful commands to complete the task. [Click here for commands](https://github.com/LondheShubham153/90DaysOfDevOps/blob/833a67ac4ec17b992934cd6878875dccc4274f56/2023/day43/aws-cli.md)
 
 Let me know if you have any questions or face any issues while doing the tasks.🚀
-
-Happy Learning :)
-
-[← Previous Day](../day42/README.md) | [Next Day →](../day44/README.md)
 
 
 
@@ -3266,10 +3043,6 @@ Post the screenshots once your EC2 instance can connect a MySQL server, that wil
 
 Watch [this video](https://youtu.be/MrA6Rk1Y82E) for reference.
 
-Happy Learning
-
-[← Previous Day](../day43/README.md) | [Next Day →](../day45/README.md)
-
 
 
 # Day 45: Deploy Wordpress website on AWS
@@ -3287,10 +3060,6 @@ To configure this WordPress site, you will create the following resources in AWS
 - Setup the server and post your new Wordpress app.
 
 Read [this](https://aws.amazon.com/getting-started/hands-on/deploy-wordpress-with-amazon-rds/) for a detailed explanation
-Happy Learning :)
-
-[← Previous Day](../day44/README.md) | [Next Day →](../day46/README.md)
-
 
 
 # Day-46: Set up CloudWatch alarms and SNS topic in AWS
@@ -3322,12 +3091,6 @@ Read more about it [here](https://docs.aws.amazon.com/sns/latest/dg/welcome.html
 (Now you also know how to delete as well. )
 
 Need help with Cloudwatch? Check out this [official documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html) for assistance.
-
-Keep growing your AWS knowledge💥🙌
-
-Happy Learning! :)
-
-[← Previous Day](../day45/README.md) | [Next Day →](../day47/README.md)
 
 
 
@@ -3392,10 +3155,6 @@ Today, we will be test the aws knowledge on services in AWS, as part of the 90 D
 
 We hope that these tasks will give you hands-on experience with aws services and help you understand how these services work together. If you have any questions or face any issues while doing the tasks, please let us know.
 
-Happy Learning :)
-
-[← Previous Day](../day46/README.md) | [Next Day →](../day48/README.md)
-
 
 
 # Day-48 - ECS
@@ -3437,8 +3196,6 @@ In summary, EKS is a good choice if you want to use Kubernetes to manage your co
 
 Set up ECS (Elastic Container Service) by setting up Nginx on ECS.
 
-[← Previous Day](../day47/README.md) | [Next Day →](../day49/README.md)
-
 
 
 # Day 49 - INTERVIEW QUESTIONS ON AWS
@@ -3461,11 +3218,6 @@ As you people have asked to put more interview based questions as part of Daily 
 - What is a gateway?
 - What is the difference between the Amazon Rds, Dynamodb, and Redshift?
 - Do you prefer to host a website on S3? What's the reason if your answer is either yes or no?
-
-Let's share your answer on LinkedIn in best possible way thinking you are in a interview table.
-Happy Learning !! :)
-
-[← Previous Day](../day48/README.md) | [Next Day →](../day50/README.md)
 
 
 
@@ -3496,10 +3248,6 @@ What if I tell you, in next 4 days, you'll be making a CI/CD pipeline on AWS wit
 
 For more details watch [this](https://youtu.be/p5i3cMCQ760) video.
 
-Happy Learning :)
-
-[← Previous Day](../day49/README.md) | [Next Day →](../day51/README.md)
-
 
 
 # Day 51: Your CI/CD pipeline on AWS - Part 2 🚀 ☁
@@ -3528,10 +3276,6 @@ Next few days you'll learn these tools/services:
 - Add buildspec.yaml file to CodeCommit Repository and complete the build process.
 
 For more details watch [this](https://youtu.be/p5i3cMCQ760) video.
-
-Happy Learning :)
-
-[← Previous Day](../day50/README.md) | [Next Day →](../day52/README.md)
 
 
 
@@ -3563,9 +3307,6 @@ CodeDeploy can deploy application content that runs on a server and is stored in
 
 For more details watch [this](https://youtu.be/IUF-pfbYGvg) video.
 
-Happy Learning :)
-
-[← Previous Day](../day51/README.md) | [Next Day →](../day53/README.md)
 
 
 
@@ -3587,9 +3328,6 @@ Finish Off in style with AWS CodePipeline
 
 For more details watch [this](https://youtu.be/IUF-pfbYGvg) video.
 
-Happy Learning :)
-
-[← Previous Day](../day52/README.md) | [Next Day →](../day54/README.md)
 
 
 
@@ -3607,11 +3345,7 @@ Throughout the lifecycle of a product, Configuration Management (CM) ensures tha
 - Give differences on both with suitable examples
 - What are most commont IaC and Config management Tools?
 
-Write a blog on this topic in the most creative way and post it on linkedIn :)
 
-happy learning...
-
-[← Previous Day](../day53/README.md) | [Next Day →](../day55/README.md)
 
 
 
@@ -3638,11 +3372,6 @@ Ansible is an open-source automation tool, or platform, used for IT tasks such a
 - Copy the private key to master server where Ansible is setup
 - Try a ping command using ansible to the Nodes.
 
-Write a blog on this topic with screenshots in the most creative way and post it on linkedIn :)
-
-happy learning...
-
-[← Previous Day](../day54/README.md) | [Next Day →](../day56/README.md)
 
 
 
@@ -3661,10 +3390,6 @@ Ansible ad hoc commands come handy when you want to perform a quick task.
 
 - You can refer to [this](https://www.middlewareinventory.com/blog/ansible-ad-hoc-commands/) blog to understand the different examples of ad-hoc commands and try out them, post the screenshots in a blog with an explanation.
 
-happy Learning :)
-
-[← Previous Day](../day55/README.md) | [Next Day →](../day57/README.md)
-
 
 
 # Day 57: Ansible Hands-on with video
@@ -3676,10 +3401,6 @@ Let's make it fun now, by using a video explanation for Ansible.
 # Task-01
 
 - Write a Blog explanation for the [ansible video](https://youtu.be/SGB7EdiP39E)
-
-happy Learning :)
-
-[← Previous Day](../day56/README.md) | [Next Day →](../day58/README.md)
 
 
 
@@ -3702,10 +3423,6 @@ Watch [this](https://youtu.be/089mRKoJTzo) video to learn about ansible Playbook
 - Write a blog about writing ansible playbooks with the best practices.
 
 Let me or anyone in the community know if you face any challenges
-
-happy Learning :)
-
-[← Previous Day](../day57/README.md) | [Next Day →](../day59/README.md)
 
 
 
@@ -3731,10 +3448,6 @@ What if you deploy a simple web app using ansible, sounds like a good project, r
 Read [this](https://medium.com/@sandeep010498/learn-ansible-with-real-time-project-cf6a0a512d45) Blog by [Sandeep Singh](https://medium.com/@sandeep010498) to clear all your doubts
 
 Let me or anyone in the community know if you face any challenges
-
-happy Learning :)
-
-[← Previous Day](../day58/README.md) | [Next Day →](../day60/README.md)
 
 
 
@@ -3764,11 +3477,6 @@ Refer this [link](https://phoenixnap.com/kb/how-to-install-terraform) for instal
 You can prepare for tomorrow's task from [here](https://www.youtube.com/live/965CaSveIEI?feature=share)🚀🚀
 
 We Hope this tasks will help you understand how to write a basic Terraform configuration file and basic commands on Terraform.
-
-Don’t forget to post in on LinkedIn.
-Happy Learning:)
-
-[← Previous Day](../day59/README.md) | [Next Day →](../day61/README.md)
 
 
 
@@ -3805,10 +3513,6 @@ Cloud Foundry
 Kubernetes
 
 Want a Free video Course for terraform? Click [here](https://bit.ly/tws-terraform)
-
-Don't forget to share your learnings on Linkedin ! Happy Learning :)
-
-[← Previous Day](../day60/README.md) | [Next Day →](../day62/README.md)
 
 
 
@@ -3888,10 +3592,6 @@ Note: In case Docker is not installed
 
 I can imagine, Terraform can be tricky, so best to use a Free video Course for terraform [here](https://bit.ly/tws-terraform)
 
-Happy Learning :)
-
-[← Previous Day](../day61/README.md) | [Next Day →](../day63/README.md)
-
 
 
 # Day 63 - Terraform Variables
@@ -3953,9 +3653,6 @@ To refresh the state by your configuration file, reloads the variables
 
 I can imagine, Terraform can be tricky, so best to use a Free video Course for terraform [here](https://bit.ly/tws-terraform)
 
-Happy Learning :)
-
-[← Previous Day](../day62/README.md) | [Next Day →](../day64/README.md)
 
 
 
@@ -4023,10 +3720,6 @@ resource "aws_instance" "aws_ec2_test" {
 
 I can imagine, Terraform can be tricky, so best to use a Free video Course for terraform [here](https://bit.ly/tws-terraform)
 
-Happy Learning :)
-
-[← Previous Day](../day63/README.md) | [Next Day →](../day65/README.md)
-
 
 
 # Day 65 - Working with Terraform Resources 🚀
@@ -4093,9 +3786,6 @@ Run terraform apply to create the EC2 instance.
 
 - Now that your EC2 instance is up and running, you can access the website you just hosted on it. Follow these steps:
 
-Happy Terraforming!
-
-[← Previous Day](../day64/README.md) | [Next Day →](../day66/README.md)
 
 
 
@@ -4122,9 +3812,6 @@ In the previous tasks, you have learned about the basics of Terraform, its confi
 
 #### This Terraform hands-on task is designed to test your proficiency in using Terraform for Infrastructure as Code (IaC) on AWS. You will be tasked with creating a VPC, subnets, an internet gateway, and launching an EC2 instance with a web server running on it. This task will showcase your skills in automating infrastructure deployment using Terraform. It's a popular interview question for companies looking for candidates with hands-on experience in Terraform. That's it for today.
 
-Happy Terraforming:)
-
-[← Previous Day](../day65/README.md) | [Next Day →](../day67/README.md)
 
 
 
@@ -4146,11 +3833,6 @@ In this task, you will learn how to create and manage S3 buckets in AWS.
 ## Resources
 
 [Terraform S3 bucket resource](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket)
-
-Good luck and happy learning!
-
-[← Previous Day](../day66/README.md) | [Next Day →](../day68/README.md)
-
 
 
 # Day 68 - Scaling with Terraform 🚀
@@ -4215,10 +3897,6 @@ resource "aws_autoscaling_group" "web_server_asg" {
 - Go to the EC2 Instances service and verify that the extra instances have been terminated.
 
 Congratulations🎊🎉 You have successfully scaled your infrastructure with Terraform.
-
-Happy Learning :)
-
-[← Previous Day](../day67/README.md) | [Next Day →](../day69/README.md)
 
 
 
@@ -4401,9 +4079,6 @@ Name = "Server ${each.key}"
 - Create the above Infrastructure as code and demonstrate the use of Count and for_each.
 - Write about meta-arguments and its use in Terraform.
 
-Happy learning :)
-
-[← Previous Day](../day68/README.md) | [Next Day →](../day70/README.md)
 
 
 
@@ -4484,10 +4159,6 @@ Explain the below in your own words and it shouldnt be copied from Internet 😉
 
 You all are doing great, and you have come so far. Well Done Everyone🎉
 
-Thode mehnat aur krni hai bas to lge rho tab tak.....Happy learning :)
-
-[← Previous Day](../day69/README.md) | [Next Day →](../day71/README.md)
-
 
 
 # Day 71 - Let's prepare for some interview questions of Terraform 🔥
@@ -4528,11 +4199,6 @@ terraform destroy
 
 #
 
-Waiting for your responses😉.....Till then Happy learning :)
-
-[← Previous Day](../day70/README.md) | [Next Day →](../day72/README.md)
-
-
 
 Day 72 - Grafana🔥
 
@@ -4549,7 +4215,6 @@ Hello Learners , you guys are doing really a good job. You will not be there 24\
 
 ---
 
-[← Previous Day](../day71/README.md) | [Next Day →](../day73/README.md)
 
 
 
@@ -4568,7 +4233,6 @@ Task:
 
 Ref: https://www.linkedin.com/posts/chetanrakhra_devops-project-share-activity-7042518379030556672-ZZA-?utm_source=share&utm_medium=member_desktop
 
-[← Previous Day](../day72/README.md) | [Next Day →](../day74/README.md)
 
 
 
@@ -4584,9 +4248,8 @@ Task:
 
 Connect an Linux and one Windows EC2 instance with Grafana and monitor the different components of the server.
 
----
 
-Don't forget to share this amazing work over LinkedIn and Tag us.
+
 
 
 
@@ -4616,10 +4279,6 @@ You can use [this video](https://youtu.be/y3SGHbixmJw) for your refernce. But it
 - As you have done this amazing task, here is one bonus link.❤️
 
 ## You can use this [refernce video](https://youtu.be/CCi957AnSfc) to intregrate _Prometheus_ with _Grafana_ and monitor Docker containers. Seems interesting ?
-
-Don't forget to share this amazing work over LinkedIn and Tag us.
-
-## Happy Learning :)
 
 
 
@@ -4672,8 +4331,6 @@ Grafana Alerting is available for Grafana OSS, Grafana Enterprise, or Grafana Cl
 - Setup sample alerting
 
 Check out [this blog](https://grafana.com/docs/grafana/latest/alerting/) for more details
-
-[← Previous Day](../day76/README.md) | [Next Day →](../day78/README.md)
 
 
 
@@ -4784,9 +4441,6 @@ The project involves deploying a Netflix clone web application on a Kubernetes c
 
 Get a netflix clone form [GitHub](https://github.com/devandres-tech/Netflix-Clone), read [this](https://www.linkedin.com/posts/chetanrakhra_devops-project-share-activity-7034173810656296960-UjUw?utm_source=share&utm_medium=member_desktop) and follow the Redit clone steps to similarly deploy a Netflix Clone
 
-Happy Learning :)
-
-
 
 # Project-6
 
@@ -4809,7 +4463,7 @@ Read More about the tech stack [here](https://faun.pub/what-is-amazon-ecs-and-ec
 
 - Create a Task Definition for the node js project with ECR image
 
-- Run the Project and share it on LinkedIn :)
+- Run the Project 
 
 
 # Project-7
@@ -4831,7 +4485,7 @@ Git Hub actions allows you to perform CICD with GitHub Repository integrated.
 
 - Follow this [video]() to understand it better
 
-- Run the Project and share it on LinkedIn :)
+- Run the Project
 
 
 # Project-8
@@ -4853,10 +4507,7 @@ Git Hub actions allows you to perform CICD with GitHub Repository integrated.
 
 - Follow this [blog](https://www.linkedin.com/posts/sitabja-chatterjee_effortless-deployment-of-react-app-to-aws-activity-7053579065487687680-wZI8?utm_source=share&utm_medium=member_desktop) to understand it better
 
-- Run the Project and share it on LinkedIn :)
-
-Happy Learning :)
-
+- Run the Project 
 
 
 # Project-9
@@ -4877,7 +4528,7 @@ Kubernetes Cluster helps in Auto-scaling and Auto-healing of your application.
 
 - Setup Deployment and Service for Kubernetes.
 
-- Run the Project and share it on LinkedIn :)
+- Run the Project 
 
 
 
@@ -4895,7 +4546,7 @@ This is a AWS Mini Project that will teach you AWS, S3, EC2, S3FS.
 
 - Create IAM user and set policies for the project resources using this [blog](https://medium.com/@chetxn/project-8-devops-implementation-8300b9ed1f2).
 - Utilize and make the best use of aws-cli
-- Run the Project and share it on LinkedIn :)
+- Run the Project
 
 
 
